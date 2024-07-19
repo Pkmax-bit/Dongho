@@ -1,0 +1,8 @@
+C:\Users\ADMINSTRATOR\Desktop\HKI 2 NĂM 3\dongho 2\dongho 2\bin\Debug\dongho 2.dll
+C:\Users\ADMINSTRATOR\Desktop\HKI 2 NĂM 3\dongho 2\dongho 2\bin\Debug\dongho 2.pdb
+C:\Users\ADMINSTRATOR\Desktop\HKI 2 NĂM 3\dongho 2\dongho 2\obj\Debug\dongho 2.csproj.AssemblyReference.cache
+C:\Users\ADMINSTRATOR\Desktop\HKI 2 NĂM 3\dongho 2\dongho 2\obj\Debug\dongho_2.UserControl1.resources
+C:\Users\ADMINSTRATOR\Desktop\HKI 2 NĂM 3\dongho 2\dongho 2\obj\Debug\dongho 2.csproj.GenerateResource.cache
+C:\Users\ADMINSTRATOR\Desktop\HKI 2 NĂM 3\dongho 2\dongho 2\obj\Debug\dongho 2.csproj.CoreCompileInputs.cache
+C:\Users\ADMINSTRATOR\Desktop\HKI 2 NĂM 3\dongho 2\dongho 2\obj\Debug\dongho 2.dll
+C:\Users\ADMINSTRATOR\Desktop\HKI 2 NĂM 3\dongho 2\dongho 2\obj\Debug\dongho 2.pdb
